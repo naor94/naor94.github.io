@@ -50,6 +50,12 @@
 .nice{
 	  text-decoration: underline;
 }
+
+.hov{
+	
+	 font-size: 88px;
+  font-size-adjust: 20px;
+}
 a {
     transition: color 0.25s ease-in-out;
     -moz-transition: color 0.25s ease-in-out;
