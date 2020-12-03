@@ -51,7 +51,7 @@
 	  text-decoration: underline;
 }
 
-.zoom {
+p.zoom {
   padding: 50px;
   background-color: green;
   transition: transform .2s; /* Animation */
@@ -60,7 +60,7 @@
   margin: 0 auto;
 }
 
-.zoom:hover {
+p.zoom:hover {
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
