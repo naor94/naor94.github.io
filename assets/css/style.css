@@ -47,6 +47,9 @@
 
 /* CUSTOM RESETS
 ================================================== */
+.nice{
+	  text-decoration: underline;
+}
 a {
     transition: color 0.25s ease-in-out;
     -moz-transition: color 0.25s ease-in-out;
